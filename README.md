@@ -35,7 +35,7 @@
 | **AutoCare Shop** | Animated business site for a family-owned car care shop | React · TypeScript · Tailwind · Framer Motion | [Live](https://autocare-shop.vercel.app) |
 | **BadmintonPH** | Tournament platform — categories, rankings, results, and live scoring | React · Firebase Hosting | [Live](https://badminton-ph.web.app) |
 | **FloodGuard** *(capstone)* | IoT flood early-warning system with tiered SMS alerts aligned to PAGASA levels | Arduino/ESP32 · Sensors · SMS Gateway | In progress |
-| **RallyReady** | Self-guided badminton home-training web app (drills, footwork, progress) | React · Supabase | In progress |
+| **RallyReady** | Self-guided badminton home-training web app (drills, footwork, progress) | React · Supabase | [Live](https://rallyready-training.vercel.app/) |
 | **Hiraya** | Filipino-themed 2D MMORPG, personal game project | Unity 6 · C# · FishNet | In progress |
 
 ---
