@@ -2,7 +2,7 @@
 
 <p align="left">
   <b>AI-Assisted Full-Stack Web Developer · 4th-year BSIT @ LPU-Cavite · General Trias, Cavite, PH</b><br/>
-  I build web and mobile systems for real people — local businesses, my badminton community, and my barangay.
+  I build web and mobile systems for real people such as local businesses, my badminton community, and my barangay.
 </p>
 
 <p align="left">
