@@ -23,7 +23,7 @@
 - **DataCamp Certified Data Analyst Associate** (Sept 2026) — SQL, data cleaning, and metrics
 - I use AI tools (Claude, Codex, Copilot) daily to plan, build, and review code — and I make sure I understand every line that ships
 - Currently learning: **payment integrations** and **automation with n8n**
-- Off the keyboard: badminton, PC gaming, DIY electronics
+- Off the keyboard: Badminton Athlete, Biking, Sleeping
 
 ---
 
